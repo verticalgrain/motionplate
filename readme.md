@@ -5,13 +5,17 @@ Another great idea by Brennan Gleason
 ## Setup
 
 Add ScrollMagic script
+
 ```<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>```
 
 Add motionplate.js
+
 ```<script src="motionplate.js"></script>```
 
 Add motionplate.css
+
 ```<link rel="stylesheet" media="all" href="motionplate.css">```
+
 ```<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">```
 
 
